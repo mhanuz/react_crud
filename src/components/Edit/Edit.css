@@ -1,0 +1,15 @@
+.edit{
+    max-width: 70%;
+    margin: 5% auto;
+}
+.action_btn{
+    margin: 5px;
+}
+
+.edit h1{
+    color:beige;
+    display:inline-block;
+    background-color: cadetblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
